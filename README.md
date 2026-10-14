@@ -44,5 +44,5 @@ Create a `.env` file in the root directory and add your Google Gemini API key:
 ```env
 GOOGLE_API_KEY=your_api_key_here
 
-
+Run : python3 agent.py
 
